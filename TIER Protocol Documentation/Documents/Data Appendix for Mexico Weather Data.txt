@@ -1,0 +1,2 @@
+Kolumny w pliku wczytywanym nazywaja sie kolejno: id, rok, miesiac, element (Temperatura maksymalna, minimalna), i 31 kolumn z kolejnymi dniami - wartosciami siatemperatury w poszczególnych dniach
+Kolumny w pliku wyjsciowym nazywaja sie kolejno: id, data, TMAX, TMIN - wartosciami sia maksymalne i minimalne temperatury w poszczególnych dniach

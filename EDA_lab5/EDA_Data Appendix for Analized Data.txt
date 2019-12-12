@@ -1,0 +1,1 @@
+Kolumny w pliku wczytywanym to kolejno: id, nazwa stacji pogodowej, data, temperatura maksymalna, temperatura minimalna (zarejstrowana w danym dniu). 
